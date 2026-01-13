@@ -51,12 +51,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Testing
 
-To run the tests, use the following command:
-
-```
-python -m unittest discover tests
-```
-
-This will run the test suite and report any failures.
